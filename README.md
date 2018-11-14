@@ -1,4 +1,4 @@
-[![alt text][header]](https://github.com/marchowardbegins/algohive)
+[![alt text](algohive_header.png)](https://github.com/marchowardbegins/algohive)
 # Algohive
 Crowdsourcing cryptocurrency prediction algorithms.
 
