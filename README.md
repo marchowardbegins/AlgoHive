@@ -39,7 +39,7 @@ To that end I am creating an AlgoHive public wallet in which can be publicly vie
 (I am open to any other ideas that can ensure that these donations are transparent and safe--please shoot me a note on [Telegram] (https://t.me/directbus).
 
 ## Who are you?
-I'm a data guy from the United States, ex-Fortune 500 company analyst, former head of Growth and Data Analytics for an AI-based virtual assistant 🤖 that [helps Americans avoid medical debt](https://miamiherald.com/news/business/biz-monday/article142123609.html) and runner-up in the annual TechCrunch Pitchoff competition. Here is my [LinkedIn](https://www.linkedin.com/in/marc-howard-870524115/) and [Twitter](https://www.linkedin.com/in/marc-howard-870524115/) if you'd like to get to know me better or just follow what I'm doing.
+I'm a data guy and crypto investor from the United States, ex-Fortune 500 company analyst, former head of Growth and Data Analytics for an AI-based virtual assistant 🤖 that [helps Americans avoid medical debt](https://miamiherald.com/news/business/biz-monday/article142123609.html), runner-up in the annual TechCrunch Pitchoff competition and [writer](https://hackernoon.com/@marcbegins) for Hacker Noon. Here is my [LinkedIn](https://www.linkedin.com/in/marc-howard-870524115/) and [Twitter](https://www.linkedin.com/in/marc-howard-870524115/) if you'd like to get to know me better or just follow what I'm doing.
 
 ## AlgoHive Crypto Project Member Index:
 New to editing on Github? To quickly learn how to create a Pull request see here: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
