@@ -1,6 +1,9 @@
-# algohive
+[![alt text][header]](https://github.com/marchowardbegins/algohive)
+# Algohive
 Crowdsourcing cryptocurrency prediction algorithms.
 
-| Project       | URL | Repo                                                               | Status | Notes                           |
-|---------------|-----|--------------------------------------------------------------------|--------|---------------------------------|
-| Crypto_signal |     | [![alt text][github]](https://github.com/lauramayol/crypto_signal) | beta   | Testing Google Trends sentiment |
+| Project         | URL                       | Repo                                                                       | Owner        | AlgoHive Member? | Status | Notes                                                                                                                                                                                                                       |   |   |
+|-----------------|---------------------------|----------------------------------------------------------------------------|--------------|------------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+| Crypto_signal   | [![alt text](web.png)](#) | [![alt text](github.png)](https://github.com/lauramayol/crypto_signal)     | Laura Vargas | Yes              | beta   | Testing Bitcoin price correlation with Google Trends sentiment based on [Marc Howards formula](https://hackernoon.com/how-i-created-a-bitcoin-trading-algorithm-with-a-29-return-rate-using-sentiment-analysis-b0db0e777f4) |   |   |
+| Sentiment trade | [![alt text](web.png)](#) | [![alt text](github.png)](https://github.com/tw7613781/sentiment_trade)    | Max Tang     | Yes              | beta   | Testing Bitcoin price correlation with sentiment data                                                                                                                                                                       |   |   |
+| CryptoTrends    | [![alt text](web.png)](#) | [![alt text](github.png)](https://github.com/Garafutdinov102/CryptoTrends) | Marat        | Yes              | beta   | Message from telegram bot about change Google Trends value, cryptocurrency price and volume trading                                                                                                                                                               |   |   |
