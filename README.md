@@ -1,9 +1,9 @@
 [![alt text](algohive_header.png)](https://github.com/marchowardbegins/algohive)
 # Algohive
 ## Crowdsourcing cryptocurrency prediction algorithms.
-Project AlgoHive's mission is to share the best projects on cryptocurrency price prediction and leverage the power of the crowd to make them better.
+Project AlgoHive's mission is to bring together and collectively iterate on the knowledge and breakthroughs of the best projects on cryptocurrency price prediction using the power of the crowd.
 
-The projects listed here are all members of the AlgoHive Project, a [community](https://algohive.com/) of data scientists, machine experts, crypto traders, financial analysts, angel investors and all-around doers that are working together to help make cryptocurrency trading safer, smarter and easier.
+The projects listed here are all members of the AlgoHive Project, a [community](https://algohive.com/) of data scientists, machine experts, crypto traders, financial analysts, and angel investors that are working together to help make cryptocurrency trading safer, smarter and easier.
 
 > *We love algorithms, crypto, machine learning and AI and work together to ultimately develop the most predictive cryptocurrency algorithm in the world.*
 
@@ -15,7 +15,7 @@ This includes:
 * GitHub data
 * Reddit data
 * Deep learning models
-* ...more data sources added weekly
+* ...more data sources explored and assimilated weekly
 
 There are many practical real-world use cases for leveraging machine learning/AI/predictive algorithms for use with crypto and financial markets in general. AlgoHive hopes to bring these ideas closer to reality not by one person or small private team but with a scalable crowdsourced model that has never been attempted in this capacity.
 
