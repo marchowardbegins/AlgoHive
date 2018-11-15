@@ -17,6 +17,10 @@ This includes:
 * Deep learning models
 * ...more data sources added weekly
 
+There are many practical real-world use cases for leveraging machine learning/AI/predictive algorithms for use with crypto and financial markets in general. AlgoHive hopes to bring these ideas closer to reality not by one person or small private team but with a scalable crowdsourced model that has never been attempted in this capacity.
+
+AlgoHive is harnessing the power of the crowd for a more distibuted intellengence to solve some of the most challenging problems in the world--starting with predicting the volatile crypto markets.
+
 ## Roadmap
 ***Q4 2018:***
 - [x] Launch first community-backed project crypto prediction project (Crypto_signal: see index below for detail)
