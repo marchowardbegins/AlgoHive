@@ -1,7 +1,9 @@
 [![alt text](algohive_header.png)](https://github.com/marchowardbegins/algohive)
 # Algohive
 ## Crowdsourcing cryptocurrency prediction algorithms.
-Project Algohive's mission is to share the best projects on cryptocurrency price prediction and leverage the power of the crowd to make them better. The projects listed here are all members of the AlgoHive Project, a [community](https://algohive.com/) of data scientists, machine learning experts, crypto traders, financial analysts, angel investors and all-around hackers that are working together to help make cryptocurrency trading safeer, smarter and easier.
+Project Algohive's mission is to share the best projects on cryptocurrency price prediction and leverage the power of the crowd to make them better.
+
+The projects listed here are all members of the AlgoHive Project, a [community](https://algohive.com/) of data scientists, machine learning experts, crypto traders, financial analysts, angel investors and all-around doers that are working together to help make cryptocurrency trading safer, smarter and easier.
 
 > *We love algorithms, crypto, machine learning and AI and work together to ultimately develop the most predictive cryptocurrency algorithm in the world.*
 
@@ -14,6 +16,32 @@ This includes:
 * Reddit data
 * Deep learning models
 * ...more data sources added weekly
+
+## Roadmap
+***Q4 2018:***
+- [x] Launch first community-backed project crypto prediction project (Crypto_signal: see index below for detail)
+- [x] Launch website for attracting talent to our project (AlgoHive.com)
+- [x] Launch community collaboration platform (Note: Will be moving to Discord due to the fact that we've now outgrown Telegram
+- [ ] Move to Discord for more granular community management, role assignments and more scalable taxonomy
+- [ ] AlgoHive Public Wallet (initial funding via donations--see detail below)
+- [ ] Goal of **20** crypto predictive projects in the AlgoHive portfolio on community projects
+
+***Q1 2019:***
+- [ ] Release 2019 funding plan (to include costs for community growth, project funding, dedicated staff, etc.)
+- [ ] Move repo to a paid GitHub organizational plan with role assignments
+- [ ] Partnerships with data providers to provide all AlgoHive members with free access to premium data
+
+***Q2 - Q4 2019:***
+- [ ] Host first AlgoHive Meetup group (in-person meeting of crypto enthusiasts, traders, ML experts and other data practioners)
+- [ ] Launch of AlgoHive podcast (sharing the latest AlgoHive ecosystem projects in the world of crypto and ML/AI
+- [ ] Begin on-boarding of AlgoHive initial management team
+- [ ] Fundraising round for seed capital
+- [ ] Ship first AlgoHive crowdsourced crypto trading predictive product
+- [ ] Launch of the AlgoHive-30 Crypto Index
+
+***2020:***
+- [ ] Launch of AlgoHive AI-Nexus product (currently in private research)
+- [ ] Launch AlgoHive Capital - a US$50m fund for accelerating the most promising ML/AI and blockchain projects
 
 ## What's in it for you:
 
@@ -41,7 +69,7 @@ To that end I am creating an AlgoHive public wallet in which can be publicly vie
 (I am open to any other ideas that can ensure that these donations are transparent and safe--please shoot me a note on [Telegram] (https://t.me/directbus).
 
 ## Who are you?
-I'm a data guy and crypto investor from the United States, ex-Fortune 500 company analyst, former head of Growth and Data Analytics for an AI-based virtual assistant 🤖 that [helps Americans avoid medical debt](https://miamiherald.com/news/business/biz-monday/article142123609.html), runner-up in the annual TechCrunch Pitchoff competition and [writer](https://hackernoon.com/@marcbegins) for Hacker Noon. Here is my [LinkedIn](https://www.linkedin.com/in/marc-howard-870524115/) and [Twitter](https://www.linkedin.com/in/marc-howard-870524115/) if you'd like to get to know me better or just follow what I'm doing.
+I'm a data guy and crypto investor from the United States, ex-Fortune 500 company analyst, former head of Growth and Data Analytics for an AI-based virtual assistant that [helps Americans avoid medical debt](https://miamiherald.com/news/business/biz-monday/article142123609.html)(raised US$1.8m seed round), runner-up in the annual TechCrunch Pitchoff competition and [writer](https://hackernoon.com/@marcbegins) for Hacker Noon. Here is my [LinkedIn](https://www.linkedin.com/in/marc-howard-870524115/) and [Twitter](https://www.linkedin.com/in/marc-howard-870524115/) if you'd like to get to know me better or just follow what I'm doing.
 
 ## AlgoHive Crypto Project Member Index:
 New to editing on Github? To quickly learn how to create a Pull request see here: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
