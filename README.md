@@ -49,8 +49,8 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 
 ## What's in it for you:
 
-- Get free advice from our community of members that live and algorithms, data science, machine laerning and the latest techniques in crypto trading and analysis.
-- Learn about the benefits of leveraging machine learning and data-driven (beyond just TA and FA) approaches to cryptocurrency trading, trade automation and bot creation, and other smart programmatic ways to put your trading on autopilot.
+- Get free advice from our community of members that live and breathe algorithms, data science, machine learning and the latest techniques in crypto trading and analysis.
+- Learn about the benefits of leveraging machine learning and data-driven approaches (beyond just TA and FA) to cryptocurrency trading, trade automation and bot creation, and other smart programmatic ways to put your trading on autopilot.
 - Full transparency into how we build crypto trading algorithms and bots, all of our research, field testing, expert analyses and yes, even failures (because we're all here to learn)! 🚀
 
 ## How to contribute:
