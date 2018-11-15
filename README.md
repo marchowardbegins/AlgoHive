@@ -40,8 +40,8 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 - [ ] Launch of AlgoHive podcast (sharing the latest AlgoHive ecosystem projects in the world of crypto and ML/AI
 - [ ] Begin on-boarding of AlgoHive initial management team
 - [ ] Fundraising round for seed capital
-- [ ] Ship first AlgoHive crowdsourced crypto trading predictive product
-- [ ] Launch of the AlgoHive-30 Crypto Index
+- [ ] Release first AlgoHive crowdsourced crypto trading predictive product
+- [ ] Launch of the AlgoHive Crypto Index
 
 ***2020:***
 - [ ] Launch of AlgoHive AI-Nexus product (currently in private research)
@@ -72,6 +72,8 @@ Although this is mostly a collaborative approach all the expenses of research, w
 
 To that end I am creating an AlgoHive public wallet (crypto donations)  which will be publicly viewable by anyone. While a portion of funds will be used for expenses the majority will be used primarily on growing this community and project--and hlping to accelerate the most promising projects. Anyone will be able to see real-time any funds used. Ultimately I will align project goals to a crowdfunding initiative for continued project development. 
 
+Although crypto donations are very welcome, we also highly value community contributions. There will ALWAYS be a way that you can contribute even if that means volunteering your time and expertise.
+
 (I am open to any other ideas that can ensure that funding is transparent and safe--please shoot me a note on [Telegram] (https://t.me/directbus) if you would like to help.
 
 ## Who are you?
@@ -79,7 +81,8 @@ I'm a data guy and crypto investor from the United States, ex-Fortune 500 compan
 
 ## AlgoHive Crypto Project Member Index:
 Below is our growing list of AlgoHive community projects that are at the intersection of crypto, machine learning and with  promising uses of alternative data sources.
-New to editing on Github? To quickly learn how to create a Pull request see here: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+New to contributing on Github? To quickly learn how to create a Pull request see here: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 | Project         | URL                       | Repo                                                                       | Owner        | AlgoHive Member? | Status | Notes                                                                                                                                                                                                                       |   |   |
 |-----------------|---------------------------|----------------------------------------------------------------------------|--------------|------------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
