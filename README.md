@@ -45,7 +45,7 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 
 ***2020:***
 - [ ] Launch of AlgoHive AI-Nexus product (currently in private research)
-- [ ] Launch AlgoHive Capital - a US$50m fund for accelerating the most promising ML/AI and blockchain projects
+- [ ] Launch AlgoHive Ventures - a US$50m venture fund for accelerating the most promising ML/AI and blockchain projects
 
 ## What's in it for you:
 
