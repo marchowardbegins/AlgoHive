@@ -26,7 +26,7 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 - [x] Launch first community-backed project crypto prediction project (Crypto_signal: see index below for detail)
 - [x] Launch website for attracting talent to our project (AlgoHive.com)
 - [x] Launch community collaboration platform (Note: Will be moving to Discord due to the fact that we've now outgrown Telegram
-- [ ] Move to Discord for more granular community management, role assignments and more scalable taxonomy
+- [x] Move to Discord for more granular community management, role assignments and more scalable taxonomy
 - [ ] AlgoHive Public Wallet (initial funding via donations--see detail below)
 - [ ] Goal of **20** crypto predictive projects in the AlgoHive portfolio on community projects
 
@@ -96,4 +96,5 @@ New to contributing on Github? To quickly learn how to create a Pull request see
 | TransactionLog  | [![alt text](web.png)](#) | [![alt text](github.png)](https://github.com/cartercarlson/TransactionLog)                     | Carter Carlson      | Yes              | In-Progress      | Web app to display transaction history and portfolio performance, including realised/unrealised profits and average cost per unit                                                                                   |       
 
 
-**If you would like to recommend another project to be invited to our AlgoHive Index (and you don't feel like creating a Pull request here) please just [shoot me a message](https://t.me/directbus) on Telegram and I'll review it.**
+**If you would like to recommend another project to be invited to our AlgoHive Index (and you don't feel like creating a Pull request here) please just [shoot me a message](https://discord.gg/VBtWvqJ
+) on Discord and I'll review it.**
