@@ -25,7 +25,7 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 ***Q4 2018:***
 - [x] Launch first community-backed project crypto prediction project (Crypto_signal: see index below for detail)
 - [x] Launch website for attracting talent to our project (AlgoHive.com)
-- [x] Launch community collaboration platform (Note: Will be moving to Discord due to the fact that we've now outgrown Telegram
+- [x] Launch community collaboration platform (Note: Will be moving to Discord due to the fact that we've now outgrown 
 - [x] Move to Discord for more granular community management, role assignments and more scalable taxonomy
 - [ ] AlgoHive Public Wallet (initial funding via donations--see detail below)
 - [ ] Goal of **20** crypto predictive projects in the AlgoHive portfolio on community projects
@@ -56,7 +56,7 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 - Full transparency into how we build crypto trading algorithms and bots, all of our research, field testing, expert analyses and yes, even failures (because we're all here to learn)! 🚀
 
 ## How to contribute:
-1) Join our free [Telegram group](https://t.me/algohive) (100+ members from all over the world)
+1) Join our free [Discord group](https://discord.gg/VBtWvqJ) (100+ members from all over the world)
 
 2) Share this repository link with others who think that this is cool project to be a part of.
 
@@ -76,7 +76,7 @@ To that end I am creating an AlgoHive public wallet (crypto donations)  which wi
 
 Although crypto donations are very welcome, we also highly value community contributions. There will ALWAYS be a way that you can contribute even if that means volunteering your time and expertise.
 
-(I am open to any other ideas that can ensure that funding is transparent and safe--please shoot me a note on [Telegram] (https://t.me/directbus) if you would like to help.
+(I am open to any other ideas that can ensure that funding is transparent and safe--please shoot me a note on [Discord] (https://discord.gg/VBtWvqJ) if you would like to help.
 
 ## Who are you?
 I'm a data guy and crypto investor from the United States, ex-Fortune 500 company analyst, former head of Growth and Data Analytics for an AI-based virtual assistant that [helps Americans avoid medical debt](https://miamiherald.com/news/business/biz-monday/article142123609.html)(raised US$1.8m seed round), runner-up in the annual TechCrunch Pitchoff competition and [writer](https://hackernoon.com/@marcbegins) for Hacker Noon. Here is my [LinkedIn](https://www.linkedin.com/in/marc-howard-870524115/) and [Twitter](https://www.linkedin.com/in/marc-howard-870524115/) if you'd like to get to know me better or just follow what I'm doing.
