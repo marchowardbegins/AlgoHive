@@ -27,7 +27,7 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 - [x] Launch website for attracting talent to our project (AlgoHive.com)
 - [x] Launch community collaboration platform (Note: Will be moving to Discord due to the fact that we've now outgrown 
 - [x] Move to Discord for more granular community management, role assignments and more scalable taxonomy
-- [ ] AlgoHive Public Wallet (initial funding via donations--see detail below)
+- [x] AlgoHive Public Wallet (initial funding via donations--see detail below)
 - [ ] Goal of **20** crypto predictive projects in the AlgoHive portfolio on community projects
 
 ***Q1 2019:***
@@ -61,6 +61,8 @@ AlgoHive is harnessing the power of the crowd for a more distibuted intellengenc
 2) Share this repository link with others who think that this is cool project to be a part of.
 
 3) Fork this repository to add other great crypto prediction projects to our master list.
+
+4) Donate crypto to help fund our growing community (see Donation section at the bottom).
 
 ## Why is this free?
 After creating my original [Bitcoin trading formula](https://hackernoon.com/how-i-created-a-bitcoin-trading-algorithm-with-a-29-return-rate-using-sentiment-analysis-b0db0e777f4) that generated a 29% return using Google Trends sentiment analysis I shared  with the crypto community the response was overwhelming. So many others wanted to learn how to be smarter about crypto trading. After many, many conversations with other traders and data experts I discovered that many of us are actually trying to solve the same problem. This led me to build a collabortive platform to bring other great crypto minds together and launch the AlgoHive project and community.
@@ -98,3 +100,11 @@ New to contributing on Github? To quickly learn how to create a Pull request see
 
 **If you would like to recommend another project to be invited to our AlgoHive Index (and you don't feel like creating a Pull request here) please just [shoot me a message](https://discord.gg/VBtWvqJ
 ) on Discord and I'll review it.**
+
+## Support our vision and donate!
+
+Support our vision for a crowdsourced prediction community! Donations are welcome to support our initiatives as we begin to scale the community:
+
+**BTC**: 373ey7L83ukrVyg342qehedpfCLuTFdycy
+
+**ETH**: 0x6Efc4458ce2fbbB516C8a909db382649F9e93383
