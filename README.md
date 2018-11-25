@@ -78,7 +78,7 @@ To that end I am creating an AlgoHive public wallet (crypto donations)  which wi
 
 Although crypto donations are very welcome, we also highly value community contributions. There will ALWAYS be a way that you can contribute even if that means volunteering your time and expertise.
 
-(I am open to any other ideas that can ensure that funding is transparent and safe--please shoot me a note on [Discord] (https://discord.gg/VBtWvqJ) if you would like to help.
+(I am open to any other ideas that can ensure that funding is transparent and safe--please shoot me a note on [Discord](https://discord.gg/VBtWvqJ) if you would like to help.
 
 ## Who are you?
 I'm a data guy and crypto investor from the United States, ex-Fortune 500 company analyst, former head of Growth and Data Analytics for an AI-based virtual assistant that [helps Americans avoid medical debt](https://miamiherald.com/news/business/biz-monday/article142123609.html)(raised US$1.8m seed round), runner-up in the annual TechCrunch Pitchoff competition and [writer](https://hackernoon.com/@marcbegins) for Hacker Noon. Here is my [LinkedIn](https://www.linkedin.com/in/marc-howard-870524115/) and [Twitter](https://www.linkedin.com/in/marc-howard-870524115/) if you'd like to get to know me better or just follow what I'm doing.
@@ -97,6 +97,7 @@ New to contributing on Github? To quickly learn how to create a Pull request see
 | stocker         | [![alt text](web.png)](#) | [![alt text](github.png)](https://github.com/WillKoehrsen/Data-Analysis/tree/master/stocker)   | Will Koehrsen       | Yes          | In-Progress      | A Stock Analysis and Prediction Toolkit using Prophet Additive Models                                                                                                                                                               |
 | TransactionLog  | [![alt text](web.png)](#) | [![alt text](github.png)](https://github.com/cartercarlson/TransactionLog)                     | Carter Carlson      | Yes              | In-Progress      | Web app to display transaction history and portfolio performance, including realised/unrealised profits and average cost per unit                                                                                   |       
 | CryptocurrencyPrediction  | [![alt text](web.png)](https://medium.com/@huangkh19951228/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a) | [![alt text](github.png)](https://github.com/khuangaf/CryptocurrencyPrediction)                     | Huang Kung-Hsiang      | Yes              | Beta      | Uses Keras/Tensorflow to predict Bitcoin price using Deep Learning models (CNN/RNN)   
+| crypto-arbitrage-bot  | [![alt text](web.png)](#) | [![alt text](github.png)](https://github.com/marchowardbegins/crypto-arbitrage-bot/)                     | Marc Howard/Carter Carlson      | Yes              | In-Progress      | A bot to check the most profitable arbitrage opportunities across crypto exchanges then automatically execute trades.  
 
 **If you would like to recommend another project to be invited to our AlgoHive Index (and you don't feel like creating a Pull request here) please just [shoot me a message](https://discord.gg/VBtWvqJ
 ) on Discord and I'll review it.**
